@@ -1,5 +1,0 @@
-My name is Tanishq Chavan.
-I am a Data Analyst from Mumbai.
-I know Python, SQL, Power BI, and Excel.
-I have built projects like Weather ETL Pipeline, Diwali Sales Analysis, and Hospital Dashboard.
-I am currently learning AI and Machine Learning.
