@@ -1,0 +1,7 @@
+*.pkl
+__pycache__/
+*.pyc
+.env
+fraud_predictions.csv
+Fraudulent_E-Commerce_Transaction_Data.csv
+Fraudulent_E-Commerce_Transaction_Data_2.csv
