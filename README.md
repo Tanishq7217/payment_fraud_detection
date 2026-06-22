@@ -1,4 +1,4 @@
-# UPI Fraud Detection System 🔍
+# UPI Fraud Detection System 
 
 ML-powered fraud detection system trained on 1.5 million transactions.
 
