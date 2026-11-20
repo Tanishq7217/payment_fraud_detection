@@ -103,10 +103,7 @@ Response:
 - Interactive threshold slider with live precision and recall
 - Confusion matrix
 - Actual vs. predicted fraud by hour
-- Fraud rate by risk level and probability band
-
-**Page 3: Investigation**
-- Transaction-level table of high-risk payments, sortable by fraud probability and colour-coded by outcome
+- Fraud rate by risk level
 
 ## Limitations and Next Steps
 - The dataset is synthetic. Patterns may not carry over to real payment data.
